@@ -1,6 +1,6 @@
 print("\n\t\t ********PROGRAMMED BY:******** ")
 print("\t\t ***Pauline Joy R. Mingo***\n ")
-print("****FINAL PROJECT FOR DSA****
+print("****FINAL PROJECT FOR DSA****")
 
 # Write a python program for storing students' personal information.
 # Display a menu of options.
