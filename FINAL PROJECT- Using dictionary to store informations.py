@@ -40,8 +40,8 @@ def menu():
               ||                                ||
               ||        1. ADD AN ITEM          ||
               ||        2. SEARCH INFORMATION   ||   
-              ||        3. EXIT                 ||
-              ||                                ||
+              ||        3. VIEW INFORMATION     ||
+              ||        4. EXIT                 ||
               ||________________________________||
         """)
 def end():
