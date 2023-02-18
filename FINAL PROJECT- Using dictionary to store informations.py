@@ -82,7 +82,7 @@ while True:
         if exit == "NO":
             menu
         else:
-            print("\n\t\t>>>>>> THANK YOU FOR USING THIS PROGRAM! <<<<<<")
+            print("\n\t\t>>>>>> Thank you so much for using this program! <<<<<<")
             break
     menu()
     Options = int(input("\t\nSELECT AN OPTION (Choose from 1-4): "))
