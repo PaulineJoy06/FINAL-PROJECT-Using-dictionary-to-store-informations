@@ -49,7 +49,7 @@ def end():
     print(">>>>> THANK YOU FOR USING THIS PROGRAM! <<<<<")
 
 menu()
-Options = int(input("\t\nSELECT AN OPTION (Choose from 1-3): "))
+Options = int(input("\t\nSELECT AN OPTION (Choose from 1-4): "))
 
 
 while True:
