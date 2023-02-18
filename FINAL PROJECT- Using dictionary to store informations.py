@@ -71,8 +71,13 @@ while True:
             if person['FullName'] == search:
                 print("\n\t\t\t\t\t>>>>> RESULTS <<<<<")
                 print(person)
+                 
+    elif Options == 3:   
+        for i in range(len(Informations)):
+            print("\n\t\t\t\t\t>>>>> THESE ARE THE INFORMATIONS <<<<<")
+            print(Informations[i])
 
-    elif Options == 3:
+    elif Options == 4:
         exit = input("\tDO YOU WANT TO EXIT THE PROGRAM? (YES / NO): ")
         if exit == "NO":
             menu
@@ -80,5 +85,5 @@ while True:
             print("\n\t\t>>>>>> THANK YOU FOR USING THIS PROGRAM! <<<<<<")
             break
     menu()
-    Options = int(input("\t\nSELECT AN OPTION (Choose from 1-3): "))
+    Options = int(input("\t\nSELECT AN OPTION (Choose from 1-4): "))
                 
